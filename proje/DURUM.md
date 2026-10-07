@@ -3,11 +3,11 @@ _Son güncelleme: 2026-10-07_
 
 ## Özet
 Logline: Demeter'in hayatta kalanları Vesta'da kırılgan bir koloni kurmuşken, Levi'nin çoğalması gezegeni yeniden şekillendirmeye başlar. Uzayda bebek bir Levi bulan maskeli bir tarikat, onun geldiği yeri aramaya koyulur; tarikatın gemisinde Kris de vardır.
-Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v1 hazır, sıradaki: sahne listesi)
+Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v2 + sahne listesi v1 hazır, onay bekliyor)
 
 ## Aşamalar
 - 🟨 0. Kanon araştırması - Wikipedia'ya dayalı kanon v1 hazır, transkript karşılaştırması (isteğe bağlı) bekliyor
-- 🟨 1. Konsept - sezon taslağı v0.5, 5 ana karar verildi. Kalan: pilot bölümün detaylı planı
+- 🟨 1. Konsept - sezon taslağı v0.5, ana kararlar tamam
 - ⬜ 2. Dünya & karakterler
 - ⬜ 3. Görsel geliştirme
 - ⬜ 4. Senaryo
@@ -19,11 +19,11 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v1 hazır, 
 
 ## Açık görevler
 - ⛔ Transkriptler: site bot korumalı, otomatik okunamıyor. Kullanıcı metni yapıştırırsa ❓ maddeler doğrulanır (`proje/kanon/sezon1-ozet.md`)
-- Pilot bölüm (~12 dk): ✅ bölüm özeti → ⬜ sahne listesi → ⬜ senaryo (`proje/hikaye/bolum01-pilot.md`)
+- Pilot bölüm (~12 dk): ✅ bölüm özeti → 🟨 sahne listesi (v1, onay bekliyor) → ⬜ senaryo (`proje/hikaye/bolum01-pilot.md`)
 
 ## Açık sorular (kullanıcının karar vermesi gereken)
 - Kris'in ödeyeceği bedel ne olacak? (senaryo aşamasında)
-- Pilot: Tarikat Vesta'yı mekiğin seyir kayıtlarından mı buluyor? (öneri, onay bekliyor)
+- Tarikatın Vesta'yı nasıl bulduğu: 2. bölümde netleşecek
 
 ## Son yapılanlar
 - 2026-10-07: `animasyon-yonetmeni` ve `animasyon-uretim` agent'ları kuruldu
@@ -33,3 +33,4 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v1 hazır, 
 - 2026-10-07: Kris'in dönüşümünü Kamen tetikleyecek (ayna: ikisi de birini geride bıraktı). Taslak v0.4.
 - 2026-10-07: Kris'in tetikleyicisi değişti: Kamen yerine Barry'nin ölümü (Kris'in rehberliği yüzünden). Taslak v0.5.
 - 2026-10-07: Pilot için 6 karar verildi, bölüm özeti v1 yazıldı (`proje/hikaye/bolum01-pilot.md`).
+- 2026-10-07: Pilot özeti v2 (Kamen sahnesi, kısa Kris–bebek Levi sahnesi, dünyaya odak) ve sahne listesi v1 (10 sahne) yazıldı.

@@ -1,6 +1,6 @@
 # Bölüm 1 - Pilot (~12 dk)
 
-> Durum: **Bölüm özeti v1 hazır.** Sıradaki adım: sahne listesi.
+> Durum: **Bölüm özeti v2 + sahne listesi v1 hazır, kullanıcı onayı bekliyor.** Sıradaki adım: sahne listesi onayı → senaryo.
 > Sezon taslağı: `proje/hikaye/sezon2-taslak.md`
 
 ## Verilen kararlar
@@ -8,30 +8,55 @@
 |---|---|---|
 | P1 | Odak ve yapı | Azi + Levi ile açılış → Barry (Vesta) + Kris (uzay) paralel → kapanış |
 | P2 | Zaman | 1. sezon finalinden **~6 ay sonra** |
-| P3 | Açılış | **Mucize → tedirginlik:** Yavru Levi'nin doğuşu (sıcak renkler), sonra çevredeki canlıların solduğu görülür (soğuk renkler). Kapanış: Azi'nin "Bu iyi mi?" bakışı |
+| P3 | Açılış | **Mucize → tedirginlik:** Yavru Levi'nin doğuşu (sıcak renkler), sonra çevredeki canlıların solduğu görülür (soğuk renkler). Azi'nin "Bu iyi mi?" bakışı |
 | P4 | Barry'nin kabul anı | **Yağmacı becerisi işe yarar:** Bir canlı bir kolonistin üzerine atlar, Barry tek hamlede halleder. Kimse teşekkür etmez; Ursula sessizce yemek kabını uzatır, Barry ilk kez masaya oturur |
-| P5 | Kris'in uzay hattı | **Bebek Levi'yle bağ:** Tarikat bebek Levi'yi Kris'ten alır. Kris bir an elini uzatır, sonra geri çeker. Kısa ve bastırılmış bir an olmalı; dönüşüm değil, bir tohum |
-| P6 | Son sahne | **Vesta'da biter:** Gece, Azi ve Mia dışarıda. Gökyüzünde yıldızların arasında hareket eden yeni bir ışık. Azi'nin yüzü. Bölüm çember gibi kapanır (Azi ile açılır, Azi ile biter) |
+| P5 | Kris'in uzay hattı | **Bebek Levi'yle bağ:** Tarikat bebek Levi'yi Kris'ten alır. Kris bir an elini uzatır, sonra geri çeker. Kısa ve bastırılmış bir an |
+| P6 | Son sahne | **Vesta'da biter:** Gece, Azi ve Mia. Gökyüzünde hareket eden yeni bir ışık. Azi'nin yüzü |
+| P7 | Tarikat Vesta'yı nasıl buluyor | **2. bölüme bırakıldı.** Pilotta açıklanmaz. Kapanıştan önce kısa bir Kris sahnesi: bebek Levi'yle sessiz bir "iletişim", ardından Kris'in yüz ifadesi Vesta'yı tarikata söyleyeceğinin sinyalini verir. Açıklama yok, sadece ima |
+| P8 | Ton ve dünya | **Pilot, dizinin esrarengiz ve yaratıcı dünyasına bolca odaklanır.** Az diyalog, çok görsel. Her şey hızlı ya da açıklayıcı olmak zorunda değil. Yeni canlılar ve ekosistem anları hikâyenin dokusu |
+| P9 | Kamen | **Pilotta görünür:** Kısa, sessiz, esrarengiz bir sahne (bahçesinde) |
 
-## Bölüm özeti (v1)
-Vesta'da şafak. Azi ve Levi ışıklı bir çiçeğin başında bekliyor. Çiçek açılıyor ve içinden yavru bir Levi çıkıyor. Bu bir mucize; Azi gülümsüyor. Ama kamera geri çekildiğinde, Levi'lerin çoğaldığı alanın çevresindeki yerli canlıların solduğu görülüyor. Azi'nin gülümsemesi yavaşça kayboluyor.
+## Bölüm özeti (v2)
+Vesta'da şafak, insan yok. Sisin içinde canlılar birbirine bağlı küçük bir zincir hâlinde uyanıyor. Sonra Azi ve Levi'yi ışıklı bir çiçeğin başında görüyoruz. Çiçek açılıyor ve içinden yavru bir Levi çıkıyor. Bu bir mucize; Azi gülümsüyor. Ama kamera geri çekildiğinde Levi'lerin çoğaldığı alanın çevresindeki yerli canlıların solduğu görülüyor. Azi'nin gülümsemesi yavaşça kayboluyor.
 
-Kolonide akşam yemeği. Demeter'in çevresinde kurulmuş düzen işliyor ama gergin: uyanan kolonistler Vesta'ya hâlâ alışamadı. Barry masada yer bulamıyor, kenarda yalnız yiyor. Uzayda ise Kris, tarikatın dev gemisinde bir hizmetçi ya da tutsak gibi yaşıyor. Maskeli figürler bebek Levi'yi bir sunakta tutuyor, ona tapınıyorlar.
+Akşam. Demeter'in çevresindeki koloni, Vesta'nın canlılarını kullanmayı öğrenmiş: ışık veren canlılar lamba, bitkiler su deposu olmuş. Ama uyanan kolonistler hâlâ tedirgin. Barry masada yer bulamıyor, kenarda yalnız yiyor. Uzayda ise tarikatın dev gemisinde Kris bir hizmetçi ya da tutsak gibi yaşıyor. Maskeli figürler bebek Levi'yi bir sunakta tutuyor, ona tapınıyorlar.
 
-İki hat birbirini aynalıyor. Kolonide bir canlı aniden bir kolonistin üzerine atlıyor; herkes donup kalırken Barry yağmacı refleksiyle onu tek hamlede etkisiz hâle getiriyor. Kimse teşekkür etmiyor. Sadece Ursula sessizce bir yemek kabı uzatıyor ve Barry ilk kez masaya oturuyor. Aynı sırada uzayda tarikat, bebek Levi'yi bir ritüel için Kris'in yanından alıp götürüyor. Kris bir an elini uzatıyor, sonra geri çekiyor. Barry bir aile buluyor; Kris ise elindeki son bağı bırakıyor.
+Koloninin kenarında Kamen, alacakaranlıkta sessizce bahçesiyle ilgileniyor. Bitkileri ona doğru eğiliyor. Toprak bir an hafifçe titriyor; Kamen başını kaldırıyor, bir şey yok.
 
-Gece. Azi ve Mia koloninin dışında, gökyüzüne bakıyorlar. Yıldızların arasında, diğerlerinden farklı olarak hareket eden bir ışık var. Azi'nin yüzü. Son.
+Kolonide bir canlı aniden bir kolonistin üzerine atlıyor. Herkes donup kalırken Barry yağmacı refleksiyle onu tek hamlede etkisiz hâle getiriyor. Kimse teşekkür etmiyor. Sadece Ursula sessizce bir yemek kabı uzatıyor ve Barry ilk kez masaya oturuyor. Aynı anda uzayda tarikat, bebek Levi'yi bir ritüel için Kris'in yanından alıp götürüyor. Kris bir an elini uzatıyor, sonra geri çekiyor.
 
-## Süre dağılımı (tahmini)
-| Bölüm | Süre | Hat |
-|---|---|---|
-| Açılış | ~3 dk | Azi + Levi: yavru Levi'nin doğuşu → solan çevre |
-| Orta | ~7 dk | Barry (koloni) ↔ Kris (tarikatın gemisi), paralel kurgu |
-| Kapanış | ~2 dk | Azi + Mia: gece, hareket eden ışık |
+Gece, tarikatın gemisi. Kris hücresinde yalnız. Uzaktaki ritüel odasından bebek Levi'nin ışığı ona ulaşıyor. Işıkta bir an bir şey beliriyor: Vesta'nın bir manzarası, bir çiçek, bir yer. Kris'in yüzündeki ifade değişiyor. Gölgede bir maskeli figür onu izliyor. Hiçbir şey söylenmiyor.
 
-## Öneri - onay bekliyor
-- **Tarikat Vesta'yı nasıl buluyor?** Pilotta Kris pazarlık yapmadığı için tarikatın rotasını başka bir şey belirlemeli. Öneri: Tarikat, Kris'in mekiğinin seyir kayıtlarından mekiğin Vesta'dan geldiğini çözer. Pilotta tek bir planla gösterilebilir (bir maskeli figür mekiğin ekranındaki rotaya bakar). Kris'in "rehberlik" rolü 2. bölümde başlar. Böylece Kris pilotta sert ve pasif kalır, ilk kararı sonraya kalır.
-- **Pilotta yer almayanlar:** Ursula (sadece bir an), Kamen, Hollow, Mascha. Kamen'i sadece arka planda, bahçesinde bir planla göstermek isteyebiliriz.
+Vesta, gece. Azi ve Mia koloninin dışında gökyüzüne bakıyor. Yıldızların arasında, diğerlerinden farklı olarak hareket eden bir ışık var. Azi'nin yüzü. Son.
 
-## Sıradaki adım
-Sahne listesi: 12 dakikayı ~8-10 sahneye bölmek. Her sahne için mekân, karakterler, süre, ana görsel ve (varsa) diyalog notu.
+## Sahne listesi (v1)
+
+> Süreler tahmini. Canlı adları **çalışma adıdır**; tasarımları görsel geliştirme aşamasında yapılacak ve bu projeye özgü, özgün canlılar olacak.
+
+| # | Süre | Mekân | Karakterler | Ne olur | Ana görsel / atmosfer | Diyalog |
+|---|---|---|---|---|---|---|
+| 1 | 0:00-0:45 | Vesta, sisli bir vadi, şafak | (insan yok) | Ekosistemin uyanışı: sisin içinde süzülen yarı saydam **"sis yüzücüleri"** güneşle birlikte çiçek tozlarını taşıyor; bir çiçek tozlanıyor, bir başka canlı onu yiyor. Küçük bir yaşam zinciri | Pastel şafak renkleri, yumuşak ışık, sessizlik ve doğa sesleri | Yok |
+| 2 | 0:45-2:45 | Vesta, ışıklı çiçeklerin bulunduğu açıklık | Azi, Levi | Azi ve Levi bir çiçeğin başında bekler. Çiçek açılır, yavru bir Levi doğar. Levi onu sahiplenir. Kamera yavaşça geri çekilir: açıklığın çevresindeki yerli bitkiler ve canlılar solmuş, gri | Sıcak altın ışık → geri çekilince soğuk gri-mor tonlar | Yok ya da tek kelime (Azi: bir isim, bir fısıltı) |
+| 3 | 2:45-3:15 | Vesta, koloniye dönüş yolu | Azi | Azi geri dönerken yerli bir canlı sürüsünün Levi'lerin bölgesinden kaçarak yön değiştirdiğini görür. Durur, bakar | Geniş plan, küçük bir figür, büyük bir manzara | Yok |
+| 4 | 3:15-4:45 | Koloni, Demeter'in çevresi, akşam | Barry, Ursula, kolonistler, (Mia arka planda) | Koloni hayatı: **"fener sümüklüleri"** lamba olarak kullanılıyor, su toplayan bitkiler, ortak yemek. Uyanan kolonistlerin tedirginliği. Barry kenarda yalnız yiyor; kimse ona yer açmıyor | Sıcak, turuncu fener ışığı; büyük, yıkık Demeter siluetinin altında küçük bir topluluk | Az, arka plan konuşmaları |
+| 5 | 4:45-6:15 | Uzay → tarikatın gemisi | Kris, maskeli figürler, bebek Levi | Dış plan: tarikatın dev gemisi (tasarımı esrarengiz, yarı organik?). İçeride bir ritüel: bebek Levi bir sunakta, maskeli figürler sessizce eğiliyor. Kris kenarda, hizmetçi ya da tutsak, izliyor | Soğuk, loş, mumlu/ışıklı ritüel atmosferi; maskeler ve sargılı ayaklar | Yok ya da tarikatın anlaşılmaz bir ilahisi |
+| 6 | 6:15-7:00 | Koloninin kenarı, Kamen'in bahçesi, alacakaranlık | Kamen | Kamen sessizce bahçesiyle ilgileniyor. Bitkileri ona doğru eğiliyor. Toprak bir an titriyor; Kamen başını kaldırıyor, etrafına bakıyor, bir şey yok. Yeniden işine dönüyor | Mor-mavi alacakaranlık, garip ve güzel bitkiler, yalnız bir figür | Yok (Kamen konuşamıyor) |
+| 7 | 7:00-8:30 | Koloni, yemek alanı | Barry, Ursula, bir kolonist | Taş gibi görünen bir **"pusu kabuğu"** aniden açılıp bir kolonistin üzerine atlar. Herkes donar. Barry tek hamlede halleder. Sessizlik. Kimse teşekkür etmez. Ursula yemek kabını uzatır, Barry masaya oturur | Hızlı, ani bir aksiyon → uzun, sessiz bir an | Çok az (belki Ursula'nın tek bir kelimesi) |
+| 8 | 8:30-9:30 | Tarikatın gemisi, ritüel sonrası | Kris, maskeli figürler, bebek Levi | Maskeli figürler bebek Levi'yi Kris'in yanından alıp götürür. Kris bir an elini uzatır, sonra geri çeker. **Sahne 7 ile paralel kurgu:** Barry masaya otururken Kris elini geri çeker | Kris'in eline yakın plan | Yok |
+| 9 | 9:30-10:30 | Tarikatın gemisi, Kris'in hücresi, gece | Kris, (bebek Levi'nin ışığı), bir maskeli figür | Kris yalnız. Uzaktan bebek Levi'nin ışığı ona ulaşır; ışıkta bir an Vesta'nın bir görüntüsü belirir. Kris'in yüzündeki ifade değişir: bir karar, bir hesap. Gölgede bir maskeli figür onu izliyor | Karanlık hücrede tek bir yumuşak ışık; Kris'in yüzüne yakın plan | Yok |
+| 10 | 10:30-11:30 | Vesta, koloninin dışı, gece | Azi, Mia | Azi ve Mia yan yana gökyüzüne bakıyor. Yıldızların arasında hareket eden bir ışık. Mia fark etmiyor, Azi ediyor. Azi'nin yüzü. Kararma | Yıldızlı Vesta gecesi, biyolüminesan bitkiler, geniş gökyüzü | Çok az (Mia'nın gündelik bir cümlesi, Azi cevap vermiyor) |
+| - | 11:30-12:00 | - | - | Jenerik | - | - |
+
+### Kurgu notları
+- **Paralel kurgu:** Sahne 4 ↔ 5 ve 7 ↔ 8 karşılıklı kesilir. Barry bir aileye kabul edilirken Kris elindeki son bağı bırakır.
+- **Çember:** Bölüm Azi ile açılır (sahne 2), Azi ile kapanır (sahne 10).
+- **Renk dili:** Mucize anları sıcak (altın, turuncu), tehdit ve gizem soğuk (mor, gri, mavi).
+- **Dünyaya odak:** Sahne 1, 3 ve 6 neredeyse sadece atmosfer ve canlılar. Bu sahneler dizinin "esrarengiz ama çekici dünya" hissini taşır.
+
+### Yeni canlılar (özgün, çalışma adları)
+| Çalışma adı | Sahne | Rolü | Kısa tarif |
+|---|---|---|---|
+| Sis yüzücüleri | 1 | Atmosfer, ekosistem zinciri | Sisin içinde süzülen, yarı saydam, yassı canlılar. Çiçek tozu taşıyorlar |
+| Fener sümüklüleri | 4 | Koloninin simbiyozu | Beslendiğinde yumuşakça parlayan yavaş canlılar. Koloni onları lamba olarak kullanıyor |
+| Pusu kabuğu | 7 | Tehdit | Taş gibi görünen, aniden açılıp saldıran kabuklu bir avcı |
+| Su toplayan bitkiler | 4 | Koloninin simbiyozu | Yapraklarında su biriktiren, koloninin deposu olmuş bitkiler |
