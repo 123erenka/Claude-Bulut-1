@@ -6,6 +6,21 @@
   - ⚠️ Bulut ortamının ağ politikası bu alan adını engelliyor (2026-10-07). Erişim için ortam ayarlarında `transcripts.foreverdreaming.org` alan adının izinli listeye eklenmesi gerekiyor.
   - Kullanım kuralı: Transkriptler kanonu **doğrulamak ve özetlemek** için kullanılır. Repoya tam metin kopyalanmaz; `proje/kanon/` altına yalnızca kendi cümlelerimizle özet ve gerektiğinde çok kısa alıntı yazılır.
 
+| Bölüm | Başlık | Transkript |
+|---|---|---|
+| 01x01 | The Signal | https://transcripts.foreverdreaming.org/viewtopic.php?t=130649 |
+| 01x02 | The Storm | https://transcripts.foreverdreaming.org/viewtopic.php?t=130650 |
+| 01x03 | The Wall | https://transcripts.foreverdreaming.org/viewtopic.php?t=130651 |
+| 01x04 | The Dream | https://transcripts.foreverdreaming.org/viewtopic.php?t=130652 |
+| 01x05 | The Demeter | https://transcripts.foreverdreaming.org/viewtopic.php?t=130653 |
+| 01x06 | The Fall | https://transcripts.foreverdreaming.org/viewtopic.php?t=130654 |
+| 01x07 | The Cure | https://transcripts.foreverdreaming.org/viewtopic.php?t=130655 |
+| 01x08 | The Nest | https://transcripts.foreverdreaming.org/viewtopic.php?t=130656 |
+| 01x09 | The Mountain | https://transcripts.foreverdreaming.org/viewtopic.php?t=130657 |
+| 01x10 | The Decision | https://transcripts.foreverdreaming.org/viewtopic.php?t=131494 |
+| 01x11 | The Return | https://transcripts.foreverdreaming.org/viewtopic.php?t=131495 |
+| 01x12 | The Reunion | https://transcripts.foreverdreaming.org/viewtopic.php?t=131496 |
+
 ## İkincil kaynaklar (bölüm özetleri, analizler)
 - TVmaze bölüm rehberi: https://www.tvmaze.com/shows/62554/-/episodeguide
 - IMDb bölüm listesi: https://www.imdb.com/title/tt21056886/episodes/
