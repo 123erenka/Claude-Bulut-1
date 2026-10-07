@@ -2,7 +2,7 @@
 _Son güncelleme: 2026-10-07_
 
 ## Özet
-Logline (taslak): Demeter'in hayatta kalanları Vesta'da kırılgan bir koloni kurmuşken, gezegen büyük bir dönüşüme girer. Aynı sırada Kris, Vesta'yı kutsal sayan maskeli bir tarikatı gezegene getirir.
+Logline: Demeter'in hayatta kalanları Vesta'da kırılgan bir koloni kurmuşken, Levi'nin çoğalması gezegeni yeniden şekillendirmeye başlar. Uzayda bebek bir Levi bulan maskeli bir tarikat, onun geldiği yeri aramaya koyulur; tarikatın gemisinde Kris de vardır.
 Mevcut aşama: 1. Konsept (ana kararlar verildi) → sıradaki: pilot bölüm
 
 ## Aşamalar
