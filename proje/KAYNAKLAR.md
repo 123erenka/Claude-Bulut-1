@@ -3,7 +3,8 @@
 ## Birincil kaynak - 1. sezon transkriptleri
 - **Forever Dreaming - Scavengers Reign transkriptleri:** https://transcripts.foreverdreaming.org/viewforum.php?f=2285
   - 1. sezonun bölüm bölüm diyalog metinleri.
-  - ⚠️ Bulut ortamının ağ politikası bu alan adını engelliyor (2026-10-07). Erişim için ortam ayarlarında `transcripts.foreverdreaming.org` alan adının izinli listeye eklenmesi gerekiyor.
+  - ⚠️ Bulut ortamının ağ politikası bu alan adını engelliyor (2026-10-07).
+  - ⚠️ Site ayrıca bot koruması (Anubis) kullanıyor. Otomatik erişime bilerek kapalı, bu yüzden ağ izni verilse de agent'lar okuyamaz. Koruma aşılmaya çalışılmaz. Transkriptler ancak kullanıcı metni sohbete yapıştırırsa ya da dosya olarak yüklerse kullanılabilir.
   - Kullanım kuralı: Transkriptler kanonu **doğrulamak ve özetlemek** için kullanılır. Repoya tam metin kopyalanmaz; `proje/kanon/` altına yalnızca kendi cümlelerimizle özet ve gerektiğinde çok kısa alıntı yazılır.
 
 | Bölüm | Başlık | Transkript |
@@ -22,6 +23,7 @@
 | 01x12 | The Reunion | https://transcripts.foreverdreaming.org/viewtopic.php?t=131496 |
 
 ## İkincil kaynaklar (bölüm özetleri, analizler)
+- **Wikipedia (kanon v1'in ana kaynağı):** https://en.wikipedia.org/wiki/Scavengers_Reign. Bulut ortamından doğrudan engelli; kullanıcının izniyle Composio uzak sunucusu üzerinden okundu.
 - TVmaze bölüm rehberi: https://www.tvmaze.com/shows/62554/-/episodeguide
 - IMDb bölüm listesi: https://www.imdb.com/title/tt21056886/episodes/
 - Fandom wiki: https://scavengers-reign.fandom.com/wiki/Season_1 (ağ politikası engelliyor)

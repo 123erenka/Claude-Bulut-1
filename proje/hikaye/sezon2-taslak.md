@@ -1,7 +1,8 @@
-# 2. Sezon - Genel Hikâye Taslağı (v0.1)
+# 2. Sezon - Genel Hikâye Taslağı (v0.2)
 
 > Durum: **Taslak, kullanıcı onayı bekliyor.** Kanon özeti için: `proje/kanon/sezon1-ozet.md`
 > Bu taslak özgündür. 1. sezonun açık bıraktığı uçlardan ve yaratıcıların fragmanında gördüğümüz yönden (maskeli tarikat, Vesta canlılarıyla birlikte yaşamayı öğrenme) yola çıkar, ama sahne ve diyalog kopyalamaz.
+> v0.2 değişiklikleri: Kanon v1'e göre düzeltildi. Bebek Levi, Kamen'in felaketteki sorumluluğu, Mia, küçülmüş Hollow ve Mascha hikâyeye eklendi.
 
 ## Format önerisi
 - 12 bölüm, ~25 dakika (1. sezonla aynı)
@@ -11,14 +12,14 @@
 
 | | Seçenek | Özü | Artı | Eksi |
 |---|---|---|---|---|
-| **A** | **Hacılar** | Kris, maskeli tarikatı Vesta'ya getirir. Tarikat Vesta'yı kutsal bir "bahçe" olarak görür ve onu sahiplenmek ister. | 1. sezonun cliffhanger'ını doğrudan sürdürüyor, fragmanla uyumlu, Kris'e büyük bir ark veriyor | Tarikatın kim olduğunu bizim tanımlamamız gerekiyor (büyük yaratıcı sorumluluk) |
-| **B** | **Kurtarma Gemisi** | Demeter'in şirketi bir kurtarma/hasat gemisi gönderir. Koloni eve dönmek ile Vesta'da kalmak arasında seçim yapmak zorunda kalır. | Şirket sömürüsü teması güçlü, "kalmak mı gitmek mi" net bir ikilem | Tarikat cliffhanger'ını boşta bırakıyor |
-| **C** | **Mevsim Dönümü** | Vesta'da büyük bir doğal döngü başlar, ekosistem tamamen değişir. Koloni göç etmek zorunda kalır. | Dizinin dönüşüm temasının özü, bol yeni canlı ve mekân | Dış bir düşman yok, gerilim daha soyut |
+| **A** | **Hacılar** | Maskeli tarikat, Kris'in mekiğinde bulduğu bebek Levi'nin izini sürerek Vesta'ya gelir. Gezegeni kutsal bir "kaynak" olarak görür ve sahiplenmek ister. | 1. sezonun final sahnesini doğrudan sürdürüyor, fragmanla uyumlu. Bebek Levi tarikatın gelişine doğal bir neden veriyor. | Tarikatın kim olduğunu bizim tanımlamamız gerekiyor (büyük yaratıcı sorumluluk) |
+| **B** | **Kurtarma Gemisi** | Demeter'in şirketi ya da Kris'in yağmacı ayı Vesta'ya gelir. Koloni eve dönmek ile Vesta'da kalmak arasında seçim yapmak zorunda kalır. | Sömürü teması güçlü, "kalmak mı gitmek mi" net bir ikilem | Tarikat ve bebek Levi'yi boşta bırakıyor |
+| **C** | **Mevsim Dönümü** | Levi'nin çoğalması Vesta'da büyük bir doğal dönüşümü tetikler. Ekosistem değişir, koloni göç etmek zorunda kalır. | Dizinin dönüşüm temasının özü, bol yeni canlı ve mekân | Dış bir düşman yok, gerilim daha soyut |
 
-**Önerim: A ana omurga, C arka plandaki baskı.** Tarikat Vesta'ya tam da gezegen büyük bir dönüşüme girerken gelir. Böylece hem dış bir tehdit (insanlar) hem de iç bir tehdit (doğa) olur. Sezonun sorusu da şu olur: *Vesta'ya kim ait? Onu sahiplenmek isteyenler mi, ona uyum sağlayanlar mı?*
+**Önerim: A ana omurga, C arka plandaki baskı.** Levi'nin çoğalması Vesta'yı değiştirmeye başlamışken, bebek Levi'yi bulan tarikat da gezegene gelir. Böylece hem dış bir tehdit (insanlar) hem de iç bir tehdit (doğa) olur. Sezonun sorusu: *Vesta'ya kim ait? Onu sahiplenmek isteyenler mi, ona uyum sağlayanlar mı?*
 
 ## Logline (A + C)
-Demeter'in hayatta kalanları Vesta'da kırılgan bir koloni kurmuşken, gezegen büyük bir dönüşüme girer. Aynı sırada Kris, Vesta'yı kutsal sayan maskeli bir tarikatı gezegene getirir. Koloni, gezegeni sahiplenmek isteyenlerle ona uyum sağlamayı öğrenenler arasındaki savaşın ortasında kalır.
+Demeter'in hayatta kalanları Vesta'da kırılgan bir koloni kurmuşken, Levi'nin çoğalması gezegeni yeniden şekillendirmeye başlar. Uzayda bebek bir Levi bulan maskeli bir tarikat, onun geldiği yeri aramaya koyulur. Tarikatın gemisinde de, yağmacılık yaptığı insanları terk eden Kris vardır.
 
 ## Tema
 - 1. sezon: *Değiş ya da yok ol.*
@@ -27,38 +28,42 @@ Demeter'in hayatta kalanları Vesta'da kırılgan bir koloni kurmuşken, gezegen
 ## Hikâye hatları
 
 ### 1. Ursula ve koloni - liderlik
-Ursula, Sam'in kartı ve mirasıyla genç yaşında liderliğe itilir. Kriyo-uykudan uyananlar Vesta'yı tanımıyor. Biri eve dönmek istiyor, biri gemiyi kale gibi kapatmak istiyor. Ursula, Sam'in ona öğrettiği "gezegeni dinle" yaklaşımıyla otoritesi arasında denge kurmayı öğrenir.
-**Ark:** Sam'in gölgesinde bir çocuk → kendi kararlarını veren bir lider.
+Ursula hâlâ Sam'in giysileri ve kartıyla dolaşıyor. Mürettebatı o uyandırdığı için fiilen lider, ama uyananlar Vesta'yı tanımıyor ve Sam'i kaybettiklerini yeni öğreniyor. Bir grup eve dönmek, bir grup gemiyi kale gibi kapatmak istiyor. Ursula, Sam'den öğrendiği "gözle, taklit et, uyum sağla" yaklaşımıyla otoritesi arasında denge kurmayı öğreniyor.
+**Ark:** Sam'in gölgesinde bir genç → kendi kararlarını veren bir lider. Sezon sonunda Sam'in kartını bırakması sembolik bir an olabilir.
 
 ### 2. Azi ve Levi - artık başka bir şey olan dost
-Levi artık bir robot değil, Vesta'nın sesi gibi bir varlık. Azi onu hâlâ eski dostu gibi görmek istiyor. Gezegen dönüşüme girdikçe Levi'nin önceliği kolonininkiyle çatışmaya başlar.
+Azi, Mia'yla yeni bir hayat kurmaya çalışıyor. Levi artık hem bir birey hem de çoğalan bir tür. Yeni Levi'ler gezegene yayıldıkça Vesta değişiyor ve bu, koloninin güvenliğiyle çatışıyor. Azi, Levi'yi hem korumak hem de onun büyümesinin bedelini kabul etmek arasında kalıyor.
 **Ark:** Sahiplenme ("o benim robotum") → bırakma ve onu olduğu gibi kabul etme.
 
 ### 3. Kris ve tarikat - iki yüzlü elçi
-Kris tarikatın elinde hayatta kalır. Vesta'yı bildiği için onlar için değerli hâle gelir ve onları gezegene götüren rehbere dönüşür. Başta yine kendi çıkarını düşünür, ama tarikatın Vesta'ya ne yapmak istediğini gördükçe seçim yapmak zorunda kalır.
-**Ark:** Bencil hayatta kalan → (seçeneğe göre) kurtuluş ya da tam düşüş.
+Kris tarikatın gemisinde hayatta kalır. Vesta'yı bildiği için onlar için değerli hâle gelir ve onları gezegene götüren rehbere dönüşür. Başta yine kendi çıkarını düşünür: belki Vesta'yı onlara satmak, belki kaçmak. Tarikatın bebek Levi'ye ve gezegene ne yapmak istediğini gördükçe bir seçim yapmak zorunda kalır.
+**Ark:** Bencil hayatta kalan → kurtuluş ya da tam düşüş (karar bekliyor).
 
-### 4. Kamen - sürgün
-Hollow'dan ayrılan Kamen yalnız, suçlu ve bağımlıdır. Kolonide istenmez. Hollow'un geride bıraktığı bir "tohum" ya da yankı onu yeniden çağırır. Tarikat Kamen'in Hollow deneyimini çok değerli bulur.
-**Ark:** Kurtuluş fırsatı. Gerçekten değişip değişmediği sezonun sonuna kadar belirsiz kalır.
+### 4. Kamen - sessiz suç
+Kamen konuşamıyor ve bahçesiyle yalnız yaşıyor. Koloni, felaketin onun rota kararıyla başladığını bilmiyor (ya da sadece Azi biliyor). Bu sır sezon boyunca yavaşça açığa çıkar. Tarikat, Hollow'la yaşadığı zihinsel bağ yüzünden Kamen'i çok değerli bulur. Küçülmüş Hollow ise yeniden onu arıyor olabilir.
+**Ark:** Kurtuluş fırsatı. Sezon finalinde ilk kez yeniden konuşması güçlü bir an olabilir.
 
 ### 5. Barry - köprü
-Kris'i en iyi tanıyan kişi. Tarikat gelince koloni ile Kris arasında aracı olur.
+Kris'i en iyi tanıyan kişi. Kolonide hâlâ bir yabancı. Tarikat gelince koloni ile Kris arasında aracı olur.
+
+### Yan unsurlar
+- **Hollow (küçük biçim):** Tehdit mi, yeniden doğuş mu? Ursula ya da Kamen'in onunla yeni bir ilişki kurması mümkün.
+- **Mascha ve büyük uzaylı:** Vesta'da daha önce mahsur kalanların hikâyesi. Tarikatın Vesta'yı daha önce de ziyaret etmiş olabileceğine dair bir ipucu taşıyabilir.
 
 ## Sezon yapısı (4 blok)
 
 | Bölümler | Blok | Ne olur |
 |---|---|---|
-| 1-3 | **Yerleşme** | Kolonide gündelik yaşam, Vesta canlılarıyla yeni simbiyoz yöntemleri. Uyanan mürettebatla gerilim. Gezegende dönüşümün ilk işaretleri (göç eden sürüler, renk değiştiren bitkiler). Paralel olarak uzayda Kris tarikatın gemisinde: tarikatın ritüelleri ve Vesta'ya olan inancı. |
-| 4-6 | **Gelişler** | Tarikat gemisi Vesta yörüngesine girer. Levi koloniyi uyarır ya da uyarmaz. Kamen'in tarikatla ilk teması. Azi, Levi'nin artık ona değil gezegene hizmet ettiğini anlar. |
-| 7-9 | **Kırılma** | Tarikat bir bölgeyi "kutsal bahçe" ilan eder ve onu dönüştürmeye başlar. Dönüşüm hızlanır, koloninin bulunduğu bölge yaşanmaz hâle gelir. Koloni bölünür: bir grup tarikata katılır. Kris'in gerçek yüzü (ya da dönüşümü) ortaya çıkar. |
-| 10-12 | **Ait olmak** | Koloni gezegenle birlikte hareket etmeyi (göç) seçer. Tarikat Vesta'yı zorla sahiplenmeye çalışır ve gezegen karşılık verir. Levi, Azi, Ursula ve Kamen'in kesişen son hamlesi. |
+| 1-3 | **Yerleşme** | Kolonide gündelik yaşam, Vesta canlılarıyla yeni simbiyoz yöntemleri. Uyanan mürettebatla gerilim. Yeni Levi'ler gezegende ortaya çıkıyor, ilk ekosistem değişiklikleri görülüyor. Paralel hat: uzayda Kris tarikatın gemisinde; tarikatın ritüelleri ve bebek Levi'ye tapınması. |
+| 4-6 | **Gelişler** | Tarikat gemisi Vesta yörüngesine girer. Kamen'in tarikatla ilk teması. Azi, Levi'nin büyümesinin koloniye zarar verdiğini fark eder. Kamen'in sırrına dair ilk çatlak. |
+| 7-9 | **Kırılma** | Tarikat bir bölgeyi "kutsal kaynak" ilan edip Levi'leri toplamaya başlar. Ekosistem değişimi hızlanır, koloninin bölgesi yaşanmaz hâle gelir. Koloni bölünür, bir grup tarikata katılır. Kamen'in sırrı ortaya çıkar. Kris'in gerçek yüzü (ya da dönüşümü) belli olur. |
+| 10-12 | **Ait olmak** | Koloni gezegenle birlikte hareket etmeyi (göç) seçer. Tarikat Vesta'yı zorla sahiplenmeye çalışır, gezegen Levi aracılığıyla karşılık verir. Azi, Ursula, Kamen, Kris ve Levi'nin kesişen son hamlesi. |
 
 ## Final - 2 seçenek
 1. **Kapalı final:** Tarikat yenilir ya da Vesta onu "sindirir". Koloni yeni bir bölgede gezegenin parçası olarak yaşar. Azi, Levi'yi bırakır.
-2. **Açık final (3. sezona kanca):** Tarikatın asıl kaynağı (ana gezegenleri, başka gemiler) ortaya çıkar. Vesta'nın sırrı uzaya yayılmıştır.
+2. **Açık final (3. sezona kanca):** Tarikatın asıl kaynağı (ana gezegenleri, başka gemiler) ortaya çıkar ya da bir Levi uzaya yayılmıştır.
 
-**Önerim: 1 + küçük bir kanca.** Sezon kendi içinde tatmin edici biter, son sahnede de ufak bir açık kapı bırakılır.
+**Önerim: 1 + küçük bir kanca.** Sezon kendi içinde tatmin edici biter, son sahnede ufak bir açık kapı bırakılır.
 
 ## Kullanıcının karar vermesi gerekenler
 - [ ] Merkez çatışma: A+C önerisi uygun mu?

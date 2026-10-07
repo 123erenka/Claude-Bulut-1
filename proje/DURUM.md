@@ -6,8 +6,8 @@ Logline (taslak): Demeter'in hayatta kalanları Vesta'da kırılgan bir koloni k
 Mevcut aşama: 0. Kanon araştırması / 1. Konsept
 
 ## Aşamalar
-- 🟨 0. Kanon araştırması - ikincil kaynaklardan ilk özet hazır, transkriptlerle doğrulama bekliyor
-- 🟨 1. Konsept - sezon taslağı v0.1 hazır, kullanıcı onayı bekliyor
+- 🟨 0. Kanon araştırması - Wikipedia'ya dayalı kanon v1 hazır, transkript karşılaştırması (isteğe bağlı) bekliyor
+- 🟨 1. Konsept - sezon taslağı v0.2 hazır, kullanıcı onayı bekliyor
 - ⬜ 2. Dünya & karakterler
 - ⬜ 3. Görsel geliştirme
 - ⬜ 4. Senaryo
@@ -18,8 +18,7 @@ Mevcut aşama: 0. Kanon araştırması / 1. Konsept
 - ⬜ 9. Yayın
 
 ## Açık görevler
-- ⛔ Transkript sitesine erişim (bulut ortamının ağ ayarlarında `transcripts.foreverdreaming.org` izinli listeye eklenmeli)
-- Kanon özetindeki ❓ maddeleri transkriptlerle doğrula (`proje/kanon/sezon1-ozet.md`)
+- ⛔ Transkriptler: site bot korumalı, otomatik okunamıyor. Kullanıcı metni yapıştırırsa ❓ maddeler doğrulanır (`proje/kanon/sezon1-ozet.md`)
 - Sezon taslağı onaylandıktan sonra: 1. bölüm detaylı çalışma
 
 ## Açık sorular (kullanıcının karar vermesi gereken)
@@ -32,3 +31,4 @@ Mevcut aşama: 0. Kanon araştırması / 1. Konsept
 ## Son yapılanlar
 - 2026-10-07: `animasyon-yonetmeni` ve `animasyon-uretim` agent'ları kuruldu
 - 2026-10-07: Kaynak listesi, 1. sezon kanon özeti (v0) ve 2. sezon hikâye taslağı (v0.1) yazıldı
+- 2026-10-07: Kanon özeti Wikipedia'ya göre v1'e güncellendi (Sam kaptan, Kamen'in rota kararı, bebek Levi, Mascha, Mia vb.). Sezon taslağı v0.2'ye güncellendi.
