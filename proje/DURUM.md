@@ -7,7 +7,7 @@ Mevcut aşama: 1. Konsept (ana kararlar verildi) → sıradaki: pilot bölüm
 
 ## Aşamalar
 - 🟨 0. Kanon araştırması - Wikipedia'ya dayalı kanon v1 hazır, transkript karşılaştırması (isteğe bağlı) bekliyor
-- 🟨 1. Konsept - sezon taslağı v0.4, 5 ana karar verildi. Kalan: pilot bölümün detaylı planı
+- 🟨 1. Konsept - sezon taslağı v0.5, 5 ana karar verildi. Kalan: pilot bölümün detaylı planı
 - ⬜ 2. Dünya & karakterler
 - ⬜ 3. Görsel geliştirme
 - ⬜ 4. Senaryo
@@ -30,3 +30,4 @@ Mevcut aşama: 1. Konsept (ana kararlar verildi) → sıradaki: pilot bölüm
 - 2026-10-07: Kanon özeti Wikipedia'ya göre v1'e güncellendi (Sam kaptan, Kamen'in rota kararı, bebek Levi, Mascha, Mia vb.). Sezon taslağı v0.2'ye güncellendi.
 - 2026-10-07: 5 ana karar verildi (A+C, Kris bedelli kurtuluş, Kamen belirsiz, kapalı final + kanca, önce pilot). Taslak v0.3.
 - 2026-10-07: Kris'in dönüşümünü Kamen tetikleyecek (ayna: ikisi de birini geride bıraktı). Taslak v0.4.
+- 2026-10-07: Kris'in tetikleyicisi değişti: Kamen yerine Barry'nin ölümü (Kris'in rehberliği yüzünden). Taslak v0.5.

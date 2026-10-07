@@ -12,3 +12,4 @@
 | 2026-10-07 | Final: kapalı + küçük kanca (son sahne Kamen) | Sezon kendi içinde tatmin edici bitsin, kapı aralık kalsın |
 | 2026-10-07 | Format: önce ~12 dk pilot, sezon formatı pilottan sonra | Üretim süresi/kalitesi görülmeden format seçmek riskli |
 | 2026-10-07 | Kris'in dönüşümünü Kamen tetikler (ikisi de birini geride bıraktı); Barry Terrance'ın hatırasıyla destekler | Kullanıcı tercihi. Kamen'in belirsiz sonuyla ironi: başkasını kurtaran adam kendini kurtaramaz |
+| 2026-10-07 | **Değişiklik:** Kris'in dönüşümünü Kamen değil, Barry'nin ölümü tetikler (tarikat Kris'in rehberliğiyle koloniye ulaşır, Barry araya girip ölür). Önceki Kamen kararı iptal | Kullanıcı daha sert bir tetikleyici istedi. Kayıp + doğrudan suç; Terrance'ın ölümüyle yankı |
