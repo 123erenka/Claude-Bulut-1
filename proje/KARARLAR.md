@@ -11,3 +11,4 @@
 | 2026-10-07 | Kamen: belirsiz son (Hollow onu geri çağırıyor) | Kullanıcı tercihi; sezonun küçük kancası olarak kullanılacak |
 | 2026-10-07 | Final: kapalı + küçük kanca (son sahne Kamen) | Sezon kendi içinde tatmin edici bitsin, kapı aralık kalsın |
 | 2026-10-07 | Format: önce ~12 dk pilot, sezon formatı pilottan sonra | Üretim süresi/kalitesi görülmeden format seçmek riskli |
+| 2026-10-07 | Kris'in dönüşümünü Kamen tetikler (ikisi de birini geride bıraktı); Barry Terrance'ın hatırasıyla destekler | Kullanıcı tercihi. Kamen'in belirsiz sonuyla ironi: başkasını kurtaran adam kendini kurtaramaz |

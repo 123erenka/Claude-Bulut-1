@@ -1,6 +1,6 @@
-# 2. Sezon - Genel Hikâye Taslağı (v0.3)
+# 2. Sezon - Genel Hikâye Taslağı (v0.4)
 
-> Durum: **Ana kararlar verildi (2026-10-07).** Sıradaki adım: pilot bölüm (1. bölüm) detaylı çalışması.
+> Durum: **Ana kararlar verildi (2026-10-07), v0.4: Kris'in tetikleyicisi Kamen.** Sıradaki adım: pilot bölüm (1. bölüm) detaylı çalışması.
 > Kanon özeti için: `proje/kanon/sezon1-ozet.md` - Kararların gerekçeleri: `proje/KARARLAR.md`
 > Bu taslak özgündür. 1. sezonun açık bıraktığı uçlardan ve yaratıcıların fragmanında gördüğümüz yönden yola çıkar, ama sahne ve diyalog kopyalamaz.
 
@@ -8,7 +8,7 @@
 | # | Konu | Karar |
 |---|---|---|
 | 1 | Merkez çatışma | **A + C:** Tarikat dışarıdan gelir, gezegen içeriden değişir |
-| 2 | Kris | **Bedelli kurtuluş:** Bir noktaya kadar kötü kalır. Başka bir karakterin tetiklediği kayıp/hatıra/ahlaki bir an sonrası iyiye döner ve bunun bedelini öder |
+| 2 | Kris | **Bedelli kurtuluş:** Bir noktaya kadar kötü kalır. Kamen'in aynası (ikisi de birini geride bıraktı) onu iyiye döndürür, bunun bedelini öder |
 | 3 | Kamen | **Belirsiz:** İyileşiyor gibi görünür ama Hollow onu geri çağırır. Hangi yolu seçtiği net olmaz |
 | 4 | Final | **Kapalı + küçük kanca:** Ana hikâye biter, son sahne Kamen'in belirsizliğiyle açık bir kapı bırakır |
 | 5 | Format | **Önce pilot:** 1. bölüm ~12 dk yapılır. Üretim süresi ve kaliteye bakılıp sezon formatına sonra karar verilir |
@@ -33,20 +33,19 @@ Azi, Mia'yla yeni bir hayat kurmaya çalışıyor. Levi artık hem bir birey hem
 ### 3. Kris - bedelli kurtuluş
 Kris tarikatın gemisinde hayatta kalır ve Vesta'yı bildiği için onlara rehber olur. Sezonun ilk yarısında hâlâ bencildir: tarikatı kullanıp Vesta'dan bir şey koparmanın ya da kaçmanın yolunu arar.
 
-**Dönüşüm anı - bir başkası tetikler.** Kris'in değişimi kendiliğinden olmaz. Onu bir kayıp ya da hatıra ile yüzleştiren başka bir karakter tetikler. Aday tetikleyiciler:
-- **Barry + Terrance'ın hatırası (önerilen):** Kris, 1. sezonda acısına son vermek için Terrance'ı öldürmüştü. Terrance o sırada Barry ve Kris'e bir hediye arıyordu, Barry o hediyeyi suçluluktan parçalamıştı. Barry, Kris'in yüzüne bu hatırayla çıkar ("O sana hediye arıyordu"). Kris ilk kez kaybettiği birinin yasını tutar ve tarikatın Vesta'ya yapacaklarına karşı durur.
-- **Bebek Levi:** Tarikatın bebek Levi'ye zarar vermeye kalkması, Kris'te bir koruma içgüdüsü uyandırır.
-- **Kamen:** İkisi de birini geride bırakmıştır (Kamen Fiona'yı, Kris Terrance'ı ve mürettebatı). Bir aynalama anı. Ama Kamen'in belirsiz kalacağı düşünülürse ikincil bir rol olur.
+**Dönüşüm anı - Kamen tetikler (karar verildi).** Kris'in değişimi kendiliğinden olmaz. Tarikat, Hollow'la yaşadığı zihinsel bağ yüzünden Kamen'i ele geçirir ve Kris'le aynı yere düşürür. İkisi aynı suçu taşır: Kamen gemi patlarken Fiona'yı, Kris de mürettebatı ve Terrance'ı geride bıraktı. Konuşamayan Kamen, suçunu kelimesiz bir şekilde (bir çizim, bir hareket, bahçesinden bir bitki) Kris'e gösterir. Kris kendini Kamen'de görür ve ilk kez kaybettiklerinin yasını tutar. Barry burada destekleyici rol oynar: Terrance'ın hatırasını Kris'e hatırlatan odur.
+
+**İroni (Kamen'in belirsizliğiyle bağ):** Kamen, Kris'in değişmesini sağlayan aynayı tutar ama aynı dersi kendine uygulayamaz. Başkasını kurtaran adam kendini kurtaramaz. Böylece bu an yarım kalmaz; tersine Kamen'in belirsiz sonunu daha anlamlı yapar.
 
 **Bedel:** Kris'in tarafını değiştirmesi ona pahalıya mal olur (ağır yaralanma, tarikatla birlikte uzaya geri dönmek ya da ölüm). Bedelin ne olacağı senaryo aşamasında netleşecek.
 **Ark:** Bencil hayatta kalan → geç ama gerçek bir değişim.
 
 ### 4. Kamen - belirsiz
-Kamen konuşamıyor ve bahçesiyle yalnız yaşıyor. Koloni, felaketin onun rota kararıyla başladığını bilmiyor (ya da sadece Azi biliyor). Sezon boyunca iyileşiyor gibi görünür, koloniye yavaş yavaş yaklaşır. Ama küçülmüş Hollow onu yeniden çağırmaya başlar, tarikat da Hollow'la yaşadığı zihinsel bağ yüzünden onunla ilgilenir.
+Kamen konuşamıyor ve bahçesiyle yalnız yaşıyor. Koloni, felaketin onun rota kararıyla başladığını bilmiyor (ya da sadece Azi biliyor). Sezon boyunca iyileşiyor gibi görünür, koloniye yavaş yavaş yaklaşır. Kris'in dönüşümünü tetikleyen o olur, ama aynı dersi kendine uygulayamaz. Ama küçülmüş Hollow onu yeniden çağırmaya başlar, tarikat da Hollow'la yaşadığı zihinsel bağ yüzünden onunla ilgilenir.
 **Ark:** Finalde koloniye mi döndüğü Hollow'a mı, belirsiz kalır. Sezonun son sahnesi ona aittir (küçük kanca).
 
-### 5. Barry - köprü ve tetikleyici
-Kris'i en iyi tanıyan kişi, kolonide hâlâ bir yabancı. Tarikat gelince koloni ile Kris arasında aracı olur. Kris'in dönüşümünü tetikleyen kişi büyük olasılıkla o.
+### 5. Barry - köprü
+Kris'i en iyi tanıyan kişi, kolonide hâlâ bir yabancı. Tarikat gelince koloni ile Kris arasında aracı olur. Kris'in dönüşüm anında Terrance'ın hatırasını ona hatırlatarak Kamen'in etkisini güçlendirir.
 
 ### Yan unsurlar
 - **Hollow (küçük biçim):** Kamen'in belirsizliğinin kaynağı.
@@ -59,7 +58,7 @@ Bölüm sayısı pilottan sonra belirlenecek. Bloklar hangi format seçilirse se
 |---|---|
 | **1. Yerleşme** | Kolonide gündelik yaşam, Vesta canlılarıyla yeni simbiyoz yöntemleri. Uyanan mürettebatla gerilim. Yeni Levi'ler ortaya çıkıyor, ilk ekosistem değişiklikleri. Paralel hat: uzayda Kris tarikatın gemisinde; tarikatın ritüelleri ve bebek Levi'ye tapınması. |
 | **2. Gelişler** | Tarikat gemisi Vesta yörüngesine girer. Kamen'in tarikatla ilk teması. Azi, Levi'nin büyümesinin koloniye zarar verdiğini fark eder. Kamen'in sırrına dair ilk çatlak. |
-| **3. Kırılma** | Tarikat bir bölgeyi "kutsal kaynak" ilan edip Levi'leri toplamaya başlar. Ekosistem değişimi hızlanır, koloninin bölgesi yaşanmaz hâle gelir. Koloni bölünür. Kamen'in sırrı ortaya çıkar. Barry, Kris'i Terrance'ın hatırasıyla yüzleştirir; Kris'in dönüşümü başlar. |
+| **3. Kırılma** | Tarikat bir bölgeyi "kutsal kaynak" ilan edip Levi'leri toplamaya başlar. Ekosistem değişimi hızlanır, koloninin bölgesi yaşanmaz hâle gelir. Koloni bölünür. Kamen'in sırrı ortaya çıkar. Tarikatın elinde Kamen ile Kris yüz yüze gelir; Kamen'in kelimesiz itirafı Kris'in dönüşümünü başlatır. |
 | **4. Ait olmak** | Koloni gezegenle birlikte göç etmeyi seçer. Tarikat Vesta'yı zorla sahiplenmeye çalışır, gezegen Levi aracılığıyla karşılık verir. Kris tarafını seçer ve bedelini öder. Azi, Levi'yi bırakır. Son sahne: Kamen gece bahçesinde, Hollow'un sesi. |
 
 ## Pilot (1. bölüm, ~12 dk)
