@@ -13,6 +13,9 @@ Kaynaklar: Milan Records soundtrack sayfası, Disquiet'in ses analizi, Awards Ra
 - **Müziğin tarzı:** Geniş orkestral melodiler, piyano temaları, synth dokuları ve vokaller. Klasik bilimkurgu müziklerine nostaljik bir selam ama taze bir bütün. Amaç hem karakterlerin iç dünyasını hem de gezegenin tuhaf canlı dünyasını yansıtmak.
 - **Müzik hikâyenin içinde:** Azi ile bilinç kazanan Levi'nin birlikte şarkı söylediği an gibi, müzik bazen olayın kendisi oluyor.
 
+## Dil
+Diyaloglar ve seslendirme **İngilizce**. Senaryo ve çalışma belgeleri Türkçe.
+
 ## Projemizin ses ilkeleri
 1. **Sessizlikten başla, sesi kazan.** Müzik ancak gerektiğinde girer. Girdiğinde de etkisi büyük olur.
 2. **Yakın sesler, büyük manzaralar.** Detay planlarda mikro sesler (çıtırtı, damla, sıvı); manzara planlarda rüzgâr, uzak yankılar, derin titreşimler.

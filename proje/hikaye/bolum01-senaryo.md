@@ -2,7 +2,8 @@
 
 > Durum: **Taslak, kullanıcı onayı bekliyor.**
 > Dayanak: `proje/hikaye/bolum01-pilot.md` (sahne listesi v2), `proje/ses/ses-muzik-rehberi.md` (ses planı)
-> Pilot neredeyse sessiz bir bölüm. Bu yüzden senaryo plan plan bir **görsel anlatım** olarak yazıldı. Diyaloglar özgündür ve çok azdır; Türkçe yazıldı, gerekirse çevrilir.
+> Pilot neredeyse sessiz bir bölüm. Bu yüzden senaryo plan plan bir **görsel anlatım** olarak yazıldı. Diyaloglar özgündür ve çok azdır.
+> **Dil:** Senaryo ve çalışma belgeleri Türkçe. Diyaloglar ve seslendirme **İngilizce** olacak; her replik İngilizce (seslendirilecek) + Türkçe (anlam) olarak yazılır.
 
 **Kısaltmalar:** GP = geniş plan, OP = orta plan, YP = yakın plan, DP = detay plan, ÇYP = çok yakın plan
 **Renk dili:** ☀ sıcak (mucize) · ❄ soğuk (gizem/tehdit)
@@ -39,7 +40,7 @@
 | 2f | DP | Sabit | Çiçek bir an tamamen duruyor | **Tam sessizlik** (yaklaşık 1 saniye) | 0:02 |
 | 2g | YP | Hafif geri çekilme | Çiçek açılıyor. İçinden avuç büyüklüğünde, ışıldayan **yavru bir Levi** çıkıyor | **Patlama:** Yaşam akımı motifi doruğunda, vokal + synth + orkestra | 0:12 |
 | 2h | OP | Sabit | Levi yavruyu avucuna alıyor. Azi elini uzatıyor; yavru Azi'nin parmağına dokunuyor | Müzik yumuşar ama sıcak kalır | 0:12 |
-| 2i | YP | Sabit | Azi fısıltıyla konuşuyor | **AZİ:** "Merhaba." | 0:06 |
+| 2i | YP | Sabit | Azi fısıltıyla konuşuyor | **AZİ:** *"Hello."* (Merhaba.) | 0:06 |
 | 2j | GP | **Yavaş vinç ile geri çekilme ve yükselme** | Kamera açıklıktan yukarı ve geriye çekiliyor. Açıklığın çevresi görünür hâle geliyor: sahne 1'de ışık veren bitkiler ve canlılar solmuş, gri; çember şeklinde ölü bir alan | Müzik yavaşlar, akordu aşağı doğru kayar. Böcek sesleri teker teker susar | 0:20 |
 | 2k | DP | Sabit | 1f'deki **nefes alan çiçeğin** bir eşi: artık açılıp kapanmıyor, gri ve kurumuş | Geriye sadece rüzgâr kalır | 0:08 |
 | 2l | YP | Sabit | Azi başını kaldırıp çevreye bakıyor. Gülümsemesi yavaşça kayboluyor. Levi ise hiçbir şey fark etmemiş gibi yavruyu inceliyor | Rüzgâr. ❄ | 0:08 |
@@ -111,7 +112,7 @@
 | 7f | GP | Sabit | **Tam sessizlik.** Herkes Barry'ye bakıyor. Kolonist yerde, nefes nefese | Tam sessizlik | 0:08 |
 | 7g | OP | Sabit | Barry bıçağını pantolonuna siliyor, kimseyle göz göze gelmeden kasasına dönüyor | Ayak sesleri | 0:10 |
 | 7h | YP | Sabit | Ursula ayağa kalkıyor. Elinde bir yemek kabı | - | 0:06 |
-| 7i | OP | Sabit | Ursula kabı Barry'ye uzatıyor ve masadaki boş yeri başıyla gösteriyor | **URSULA:** "Otur." · **Ocak** motifi: tek, sıcak bir piyano notası ☀ | 0:10 |
+| 7i | OP | Sabit | Ursula kabı Barry'ye uzatıyor ve masadaki boş yeri başıyla gösteriyor | **URSULA:** *"Sit."* (Otur.) · **Ocak** motifi: tek, sıcak bir piyano notası ☀ | 0:10 |
 | 7j | YP | Sabit | Barry'nin yüzü. Bir an tereddüt | Nota uzar | 0:06 |
 | 7k | OP | Sabit | Barry masaya oturuyor. Yanındaki kolonist çekingen bir şekilde biraz yer açıyor | Nota sürer → **sahne 8'e kesintisiz taşınır** | 0:08 |
 
@@ -151,7 +152,7 @@
 | Plan | Çekim | Kamera | Görüntü | Ses | Süre |
 |---|---|---|---|---|---|
 | 10a | GP | Sabit | Yıldızlı Vesta gecesi. Biyolüminesan bitkiler. Koloninin dışında, bir kayanın üzerinde **Azi** ve **Mia** yan yana oturuyor | Gece böcekleri, sakin | 0:12 |
-| 10b | OP | Sabit | Mia başını Azi'nin omzuna yaslamış | **MİA:** "Sporlar bu gece alçaktan uçuyor. Yarın yağmur yağar." | 0:10 |
+| 10b | OP | Sabit | Mia başını Azi'nin omzuna yaslamış | **MİA:** *"Spores are flying low tonight. It'll rain tomorrow."* (Sporlar bu gece alçaktan uçuyor. Yarın yağmur yağar.) | 0:10 |
 | 10c | YP | Sabit | Azi cevap vermiyor. Gökyüzüne bakıyor; aklı açıklıktaki gri halkada | Böcekler | 0:08 |
 | 10d | GP (gökyüzü) | Sabit | Yıldızlar. Aralarında diğerlerinden farklı olarak yavaşça **hareket eden bir ışık** | Çevre sesleri yavaşça çekilmeye başlar | 0:10 |
 | 10e | YP | Sabit | Mia gözlerini kapatmış, fark etmiyor. Azi fark ediyor; yüzü gerilir | Derin bir synth/bakır tını şişer; **Yaşam akımı motifi ters/minör** hâliyle | 0:10 |
@@ -163,7 +164,8 @@
 ---
 
 ## Yönetmen notları
-- **Diyalog:** Bölümde sadece 3 replik var (Azi, Ursula, Mia). Her biri kısa ve gündelik; ağırlığı görüntü ve ses taşıyor.
+- **Diyalog:** Bölümde sadece 3 replik var (Azi, Ursula, Mia). Her biri kısa ve gündelik; ağırlığı görüntü ve ses taşıyor. Seslendirme İngilizce.
+- **İpuçları onaylandı (2026-10-08):** Maskedeki çiçek motifi (5g) ve Kris'in hücresindeki maskeli figür (9f-9g) kalıyor.
 - **Sahne 2j-2l ve 9c bağı:** Kris'in hücresinde beliren dağ otlakçısı silueti, izleyicinin bölümün başında gördüğü bir imge. Bebek Levi'nin Kris'e Vesta'yı "gösterdiğini" açıklamadan sezdirir.
 - **Sahne 5g:** Maskedeki çiçek motifi tarikatın Vesta'yı zaten bildiğine dair küçük bir ipucu. 2. bölümde açılabilir ya da açılmayabilir.
 - **Levi'nin ilgisizliği (2l):** Levi'nin solan çevreyi fark etmemesi, sezon boyunca Azi ile arasındaki çatışmanın tohumu.
