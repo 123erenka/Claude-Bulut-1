@@ -3,7 +3,7 @@ _Son güncelleme: 2026-10-07_
 
 ## Özet
 Logline: Demeter'in hayatta kalanları Vesta'da kırılgan bir koloni kurmuşken, Levi'nin çoğalması gezegeni yeniden şekillendirmeye başlar. Uzayda bebek bir Levi bulan maskeli bir tarikat, onun geldiği yeri aramaya koyulur; tarikatın gemisinde Kris de vardır.
-Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v2 + sahne listesi v1 hazır, onay bekliyor)
+Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v3 + sahne listesi v2 hazır, onay bekliyor)
 
 ## Aşamalar
 - 🟨 0. Kanon araştırması - Wikipedia'ya dayalı kanon v1 hazır, transkript karşılaştırması (isteğe bağlı) bekliyor
@@ -19,7 +19,7 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v2 + sahne 
 
 ## Açık görevler
 - ⛔ Transkriptler: site bot korumalı, otomatik okunamıyor. Kullanıcı metni yapıştırırsa ❓ maddeler doğrulanır (`proje/kanon/sezon1-ozet.md`)
-- Pilot bölüm (~12 dk): ✅ bölüm özeti → 🟨 sahne listesi (v1, onay bekliyor) → ⬜ senaryo (`proje/hikaye/bolum01-pilot.md`)
+- Pilot bölüm (~12 dk): ✅ bölüm özeti → 🟨 sahne listesi (v2, onay bekliyor) → ⬜ senaryo (`proje/hikaye/bolum01-pilot.md`)
 
 ## Açık sorular (kullanıcının karar vermesi gereken)
 - Kris'in ödeyeceği bedel ne olacak? (senaryo aşamasında)
@@ -34,3 +34,4 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v2 + sahne 
 - 2026-10-07: Kris'in tetikleyicisi değişti: Kamen yerine Barry'nin ölümü (Kris'in rehberliği yüzünden). Taslak v0.5.
 - 2026-10-07: Pilot için 6 karar verildi, bölüm özeti v1 yazıldı (`proje/hikaye/bolum01-pilot.md`).
 - 2026-10-07: Pilot özeti v2 (Kamen sahnesi, kısa Kris–bebek Levi sahnesi, dünyaya odak) ve sahne listesi v1 (10 sahne) yazıldı.
+- 2026-10-08: Pilota açılış montajı eklendi (9 planlık Vesta montajı, altın yaşam akımıyla Levi'nin doğumuna bağlanıyor). Sahne listesi v2.
