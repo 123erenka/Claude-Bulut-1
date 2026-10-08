@@ -68,6 +68,9 @@ Detay ve manzara planları dönüşümlü gelir. Her planda **altın yaşam akı
 
 **Üretim notu:** Montajdaki planların çoğu sabit ya da hafif hareketli olduğu için yapay zekâ destekli üretime en uygun bölüm burası. Pilotun üretim testine buradan başlamak mantıklı.
 
+### Ses ve müzik
+Detaylı ses planı: `proje/ses/ses-muzik-rehberi.md`. Bölümün iki vurucu ses anı: **sahne 2** (Levi'nin doğumu: sessizlik → patlama → çöküş) ve **sahne 10** (son sahne: şişen gerilim → kararma ve tam sessizlik).
+
 ### Kurgu notları
 - **Paralel kurgu:** Sahne 4 ↔ 5 ve 7 ↔ 8 karşılıklı kesilir. Barry bir aileye kabul edilirken Kris elindeki son bağı bırakır.
 - **Çember:** Bölüm Azi ile açılır (sahne 2), Azi ile kapanır (sahne 10).

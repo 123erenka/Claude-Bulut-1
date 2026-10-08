@@ -40,3 +40,11 @@
 - Netflix yenilemedi: https://www.whats-on-netflix.com/news/scavengers-reign-not-getting-renewed-for-season-2-at-netflix/
 - Netflix röportajı: https://www.whats-on-netflix.com/news/interview-with-scavengers-reign-team-on-animated-series-joining-netflix-season-2-potential
 - Adult Swim Toonami yayını (Eylül 2026): https://www.bubbleblabber.com/?p=185362
+
+## Ses ve müzik
+- Milan Records - soundtrack (besteci Nicolas Snyder, 18 parça): https://www.milanrecords.com/release/scavengers-reign/
+- Disquiet - "The Sonic Ecosystem of Scavengers Reign": https://disquiet.com/2023/11/12/the-sonic-ecosystem-of-scavengers-reign/
+- Awards Radar - ses tasarımı (Axel Steichen) dahil yazı: https://awardsradar.com/2024/02/08/interview-scavengers-reign/
+- Film Music Reporter - soundtrack duyurusu: https://filmmusicreporter.com/2024/02/15/soundtrack-album-for-maxs-scavengers-reign-to-be-released/
+- Not: Bu sayfalar bulut ortamından doğrudan engelli; Composio uzak sunucusu üzerinden okundu.
+

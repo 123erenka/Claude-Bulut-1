@@ -12,7 +12,7 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v3 + sahne 
 - ⬜ 3. Görsel geliştirme
 - ⬜ 4. Senaryo
 - ⬜ 5. Storyboard & animatik
-- ⬜ 6. Ses ön hazırlığı
+- 🟨 6. Ses ön hazırlığı - ses/müzik rehberi ve pilot ses planı hazır (`proje/ses/ses-muzik-rehberi.md`)
 - ⬜ 7. Prodüksiyon
 - ⬜ 8. Post-prodüksiyon
 - ⬜ 9. Yayın
@@ -35,3 +35,4 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v3 + sahne 
 - 2026-10-07: Pilot için 6 karar verildi, bölüm özeti v1 yazıldı (`proje/hikaye/bolum01-pilot.md`).
 - 2026-10-07: Pilot özeti v2 (Kamen sahnesi, kısa Kris–bebek Levi sahnesi, dünyaya odak) ve sahne listesi v1 (10 sahne) yazıldı.
 - 2026-10-08: Pilota açılış montajı eklendi (9 planlık Vesta montajı, altın yaşam akımıyla Levi'nin doğumuna bağlanıyor). Sahne listesi v2.
+- 2026-10-08: Ses ve müzik araştırması yapıldı; ses/müzik rehberi, 4 leitmotif ve pilotun sahne sahne ses planı yazıldı.
