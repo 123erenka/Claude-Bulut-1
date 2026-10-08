@@ -78,7 +78,7 @@ Bu projenin canlıları **özgündür**. Ortak ilkeler:
 1. Rehber onaylanınca 5-6 stil karesi üretilir: (a) şafak manzarası, (b) detay/makro, (c) altın akım, (d) gece biyolüminesansı, (e) tarikat gemisi içi, (f) koloni akşamı.
 2. Kareler yönetmen ve kullanıcı tarafından onaylanır → `proje/stil/kareler/` altına `STIL_01_safak_v1.png` gibi adlarla kaydedilir.
 3. Bundan sonra **bütün** görsel üretiminde stil referansı olarak yalnızca bu kareler kullanılır (Midjourney `--sref`, Nano Banana referans görseli, ileride LoRA eğitimi).
-4. Orijinal dizinin kareleri referans, stil referansı ya da eğitim verisi olarak **kullanılmaz** (telif ve projenin özgünlüğü).
+4. **Güncelleme (2026-10-08, kullanıcı kararı):** Çizim stili 1. sezonun stili. Kullanıcı 1. sezondan topladığı görselleri stil ve karakter referansı olarak kullanacak. Her araçta, sahibi olunmayan görsellerin yüklenmesine ilişkin kullanım koşulları kontrol edilmeli. Yeni canlılar, tarikat ve ortamlar özgün tasarım olarak kalır.
 
 ## 11. Sabit prompt blokları (İngilizce, bütün araçlarda aynen tekrarlanır)
 Araçlar İngilizce promptlarda daha tutarlı çalıştığı için bloklar İngilizcedir. Ayrıntılı kullanım: `proje/uretim/promptlar/sahne01-montaj.md`.

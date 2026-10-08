@@ -47,7 +47,7 @@ Puanlar 1-5 (5 = en iyi). "Öğrenme" sütununda 5 = en kolay.
 | Kling | Ücretsiz planda filigran ve ticari kullanım yok; ücretsiz üretimler herkese açık akışta görünebilir. Kling yüklenen ve üretilen içerik için geniş lisans alıyor (üçüncü taraf okuması; resmi metin okunamadı) | Ticari kullanım zaten yok. Filigran olmaması için ücretli plan gerekli |
 | FLUX.2 [dev] | Ticari olmayan lisans; LoRA türevleri de bu lisansa bağlı | Hayran projesi için uygun. FLUX.2 [klein] 4B Apache 2.0 (serbest) |
 | Wan 2.2 | Apache 2.0 | Serbest. Wan 2.5-2.7 ağırlıkları yayımlanmadı, sadece API |
-| Hepsi | Orijinal dizinin karelerini yüklemek ya da onlarla model eğitmek **yasak tutuyoruz** (proje kuralı, telif riski) | Referans = yalnızca kendi stil karelerimiz ve model sheet'lerimiz |
+| Hepsi | **Güncelleme (2026-10-08, kullanıcı kararı):** Kullanıcı 1. sezon görsellerini stil ve karakter referansı olarak kullanacak | Her araçta sahibi olunmayan görsellerin yüklenmesine dair koşullar kullanıcı tarafından kontrol edilmeli; Midjourney Basic/Standard'da çıktılar herkese açık galeride görünür |
 
 ---
 

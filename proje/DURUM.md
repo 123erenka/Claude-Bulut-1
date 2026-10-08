@@ -38,3 +38,4 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (sahne listesi ona
 - 2026-10-08: Ses ve müzik araştırması yapıldı; ses/müzik rehberi, 4 leitmotif ve pilotun sahne sahne ses planı yazıldı.
 - 2026-10-08: Sahne listesi v2 onaylandı. Pilot çekim senaryosu v1 yazıldı. Üretim agent'ına T-001 (görsel geliştirme) ve T-002 (ses araçları) talepleri verildi.
 - 2026-10-08: Üretim yaklaşımı değişti (1. sezon görselleri referans, her şey yapay zekâyla). Üretim agent'ı T-001/T-002 üzerinde çalışırken durduruldu; ara çıktılar `proje/stil/` ve `proje/uretim/` altında. Yarın: agent'ın kaldığı yerden devam, sonucu gözden geçirme.
+- 2026-10-08: Pilotun storyboard'u ve yapay zekâ promptları yazıldı: 19 anahtar kare, her biri görsel + hareket promptu ve referans yuvasıyla (`proje/uretim/promptlar/pilot-storyboard.md`). Stil rehberi ve pipeline referans kararıyla eşitlendi.
