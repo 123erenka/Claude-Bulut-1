@@ -1,6 +1,6 @@
 # Bölüm 1 - Pilot (~12 dk)
 
-> Durum: **Bölüm özeti v3 + sahne listesi v2 hazır, kullanıcı onayı bekliyor.** Sıradaki adım: sahne listesi onayı → senaryo.
+> Durum: **Sahne listesi v2 onaylandı (2026-10-08).** Çekim senaryosu v1: `proje/hikaye/bolum01-senaryo.md`
 > Sezon taslağı: `proje/hikaye/sezon2-taslak.md`
 
 ## Verilen kararlar

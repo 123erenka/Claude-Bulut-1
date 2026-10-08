@@ -3,14 +3,14 @@ _Son güncelleme: 2026-10-07_
 
 ## Özet
 Logline: Demeter'in hayatta kalanları Vesta'da kırılgan bir koloni kurmuşken, Levi'nin çoğalması gezegeni yeniden şekillendirmeye başlar. Uzayda bebek bir Levi bulan maskeli bir tarikat, onun geldiği yeri aramaya koyulur; tarikatın gemisinde Kris de vardır.
-Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v3 + sahne listesi v2 hazır, onay bekliyor)
+Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (sahne listesi onaylandı, çekim senaryosu v1 onay bekliyor)
 
 ## Aşamalar
 - 🟨 0. Kanon araştırması - Wikipedia'ya dayalı kanon v1 hazır, transkript karşılaştırması (isteğe bağlı) bekliyor
 - 🟨 1. Konsept - sezon taslağı v0.5, ana kararlar tamam
 - ⬜ 2. Dünya & karakterler
-- ⬜ 3. Görsel geliştirme
-- ⬜ 4. Senaryo
+- 🟨 3. Görsel geliştirme - üretim agent'ı plan hazırlıyor (T-001)
+- 🟨 4. Senaryo - pilot çekim senaryosu v1
 - ⬜ 5. Storyboard & animatik
 - 🟨 6. Ses ön hazırlığı - ses/müzik rehberi ve pilot ses planı hazır (`proje/ses/ses-muzik-rehberi.md`)
 - ⬜ 7. Prodüksiyon
@@ -19,7 +19,7 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v3 + sahne 
 
 ## Açık görevler
 - ⛔ Transkriptler: site bot korumalı, otomatik okunamıyor. Kullanıcı metni yapıştırırsa ❓ maddeler doğrulanır (`proje/kanon/sezon1-ozet.md`)
-- Pilot bölüm (~12 dk): ✅ bölüm özeti → 🟨 sahne listesi (v2, onay bekliyor) → ⬜ senaryo (`proje/hikaye/bolum01-pilot.md`)
+- Pilot bölüm (~12 dk): ✅ bölüm özeti → ✅ sahne listesi (v2) → 🟨 çekim senaryosu (v1, onay bekliyor: `proje/hikaye/bolum01-senaryo.md`) (`proje/hikaye/bolum01-pilot.md`)
 
 ## Açık sorular (kullanıcının karar vermesi gereken)
 - Kris'in ödeyeceği bedel ne olacak? (senaryo aşamasında)
@@ -36,3 +36,4 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (özet v3 + sahne 
 - 2026-10-07: Pilot özeti v2 (Kamen sahnesi, kısa Kris–bebek Levi sahnesi, dünyaya odak) ve sahne listesi v1 (10 sahne) yazıldı.
 - 2026-10-08: Pilota açılış montajı eklendi (9 planlık Vesta montajı, altın yaşam akımıyla Levi'nin doğumuna bağlanıyor). Sahne listesi v2.
 - 2026-10-08: Ses ve müzik araştırması yapıldı; ses/müzik rehberi, 4 leitmotif ve pilotun sahne sahne ses planı yazıldı.
+- 2026-10-08: Sahne listesi v2 onaylandı. Pilot çekim senaryosu v1 yazıldı. Üretim agent'ına T-001 (görsel geliştirme) ve T-002 (ses araçları) talepleri verildi.
