@@ -9,7 +9,7 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (sahne listesi ona
 - 🟨 0. Kanon araştırması - Wikipedia'ya dayalı kanon v1 hazır, transkript karşılaştırması (isteğe bağlı) bekliyor
 - 🟨 1. Konsept - sezon taslağı v0.5, ana kararlar tamam
 - ⬜ 2. Dünya & karakterler
-- 🟨 3. Görsel geliştirme - üretim agent'ı plan hazırlıyor (T-001)
+- 🟨 3. Görsel geliştirme - üretim agent'ı plan hazırlıyordu (T-001, T-002); kullanıcı isteğiyle yarıda durduruldu, yarın devam
 - 🟨 4. Senaryo - pilot çekim senaryosu v1
 - ⬜ 5. Storyboard & animatik
 - 🟨 6. Ses ön hazırlığı - ses/müzik rehberi ve pilot ses planı hazır (`proje/ses/ses-muzik-rehberi.md`)
@@ -37,3 +37,4 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (sahne listesi ona
 - 2026-10-08: Pilota açılış montajı eklendi (9 planlık Vesta montajı, altın yaşam akımıyla Levi'nin doğumuna bağlanıyor). Sahne listesi v2.
 - 2026-10-08: Ses ve müzik araştırması yapıldı; ses/müzik rehberi, 4 leitmotif ve pilotun sahne sahne ses planı yazıldı.
 - 2026-10-08: Sahne listesi v2 onaylandı. Pilot çekim senaryosu v1 yazıldı. Üretim agent'ına T-001 (görsel geliştirme) ve T-002 (ses araçları) talepleri verildi.
+- 2026-10-08: Üretim yaklaşımı değişti (1. sezon görselleri referans, her şey yapay zekâyla). Üretim agent'ı T-001/T-002 üzerinde çalışırken durduruldu; ara çıktılar `proje/stil/` ve `proje/uretim/` altında. Yarın: agent'ın kaldığı yerden devam, sonucu gözden geçirme.
