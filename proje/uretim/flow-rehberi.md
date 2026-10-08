@@ -23,6 +23,26 @@
 - **Klip süresi** ikincil kaynaklara göre **8 saniye** (doğrulanmadı). Uzun planlar Extend ile uzatılır.
 - **Filigran:** Google, görsellere görünmez SynthID filigranı ekliyor. Ekranda görünmüyor, sorun değil.
 
+## 1.1 Flow'un yeni arayüzünde nerede ne var? (Türkçe arayüz, 2026-10-08 ekran görüntüsüne göre)
+Yeni arayüzde ayrı bir "Ingredients" bölümü yok. Rehberde "ingredient" dediğimiz her şey şu yerlere dağılmış:
+
+| Rehberdeki ad | Arayüzdeki yeri | Kullanımı |
+|---|---|---|
+| Karakter referansları (`Azi`, `Levi`...) | Sol menü → **Karakterler** | Her karakteri burada bir kez tanımla, sonra promptlara ekle |
+| Stil kareleri, `Demeter`, `YavruLevi` | Sol menü → **Yüklemeler** (yüklediğin görseller) | Referans olarak prompta eklenir |
+| Mekânlar / sahneler | Sol menü → **Sahneler** (doğrulanmadı: mekân referansı ya da sahne/kurgu alanı olabilir) | Açıp içine bak |
+| Bir görseli prompta referans olarak eklemek | Prompt kutusunun solundaki **+** düğmesi | Kütüphaneden ya da bilgisayardan görsel seçilir |
+| Model, en-boy oranı, çıktı sayısı | Prompt kutusunun sağındaki **ayar (sürgüler) simgesi** | Nano Banana 2.1, 16:9 burada seçilir |
+| Görsel / video modu | Ayar simgesinin solundaki simge (doğrulanmadı) | Görsel mi video mu üretileceği |
+| **Ajan** | Prompt kutusundaki "Ajan" düğmesi | Flow'un yapay zekâ asistanı. Biz promptları doğrudan yazacağımız için şimdilik gerek yok |
+
+**Referans görsel hazırlama kuralları:**
+- Görseldeki **logo ve yazıları kırp** (köşedeki kanal logosu, afişteki başlık). Kalırlarsa üretilen karelere de sızarlar.
+- **Afiş ve tanıtım görsellerini** referans olarak kullanma; üzerlerinde yazı var.
+- **Stil karelerinde** karakter olmasın ya da çok küçük olsun.
+- **Karakter görsellerinde** karakter büyük ve net olsun, arka plan sade olsun.
+- Flow'daki "eski içeriklerin süresi dolacak" uyarısı: önemli görselleri ve klipleri **bilgisayarına indirerek** sakla.
+
 ---
 
 ## 2. Kurulum (bir kez)
@@ -30,7 +50,7 @@
 1. Flow'da yeni bir proje aç: **`SR2 - Pilot`**.
 2. En-boy oranını **16:9** seç. Bütün kareler ve klipler aynı oranda olmalı.
 3. Görsel modeli olarak **Nano Banana 2.1**'i seç.
-4. **Ingredients kütüphanesini kur.** Görselleri aşağıdaki adlarla yükle; prompt içinde bu adlarla anacağız:
+4. **Referans kütüphanesini kur** (karakterler → **Karakterler**, diğerleri → **Yüklemeler**; bkz. 1.1). Görselleri aşağıdaki adlarla kaydet; prompt içinde bu adlarla anacağız:
 
 | Ingredient adı | Ne yükleyeceksin | İpucu |
 |---|---|---|
