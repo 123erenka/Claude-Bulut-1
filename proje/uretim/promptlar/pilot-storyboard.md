@@ -4,6 +4,7 @@
 > Dayanak: `proje/hikaye/bolum01-senaryo.md`, `proje/stil/stil-rehberi.md`, `proje/uretim/pipeline.md`, `proje/uretim/promptlar/sahne01-montaj.md`
 > Bölümün tamamı değil, **hikâyeyi taşıyan 19 kare** seçildi. Bu kareler bölümün storyboard'u gibi: sırayla dizildiğinde bölüm baştan sona okunabilir. Önce bunları üretip onaylıyoruz, aradaki planlar bu karelerin stilinden türetilecek.
 > Promptlar **İngilizce** (araçlar İngilizcede daha tutarlı), açıklamalar Türkçe.
+> **Ana araç Google Flow + Nano Banana 2.1.** Bu promptları Flow'a uyarlama kuralları ve hazır stil testi promptları: `proje/uretim/flow-rehberi.md`
 
 ---
 

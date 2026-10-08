@@ -19,3 +19,4 @@
 | 2026-10-08 | Ses/müzik: sessizlikten başlayan, gezegen seslerini müziğe işleyen yaklaşım; 4 özgün leitmotif (Yaşam akımı, Ocak, İlahi, Yankı); pilotta vurucu anlar sahne 2 ve 10 | Kullanıcı: ses ve müzik bu dizide çok önemli. Müzik özgün olacak, orijinal kopyalanmayacak |
 | 2026-10-08 | Dil: çalışma belgeleri Türkçe; diyalog ve seslendirme her zaman İngilizce. Pilot ipuçları (maskedeki çiçek motifi, hücredeki maskeli figür) onaylandı | Kullanıcı tercihi |
 | 2026-10-08 | Üretim yaklaşımı: 1. sezon çizim stili; elle çizim yok. Kullanıcının topladığı 1. sezon görselleri referans alınarak her şey yapay zekâyla üretilecek, sahne animasyonları da yapay zekâyla. Sadece küçük elle düzeltmeler | Kullanıcı kararı. Referans görselleri kullanıcı sağlar; agent'lar yöntemi planlar |
+| 2026-10-08 | Ana üretim aracı: Google Flow (görsel: Nano Banana 2.1, video: Veo, Frames modu öncelikli) | Kullanıcı tercihi. Nano Banana 2, 29 Ekim 2026'da kapanıyor; 2.1 seçilmeli |

@@ -39,3 +39,4 @@ Mevcut aşama: 1. Konsept tamam → pilot bölüm planlaması (sahne listesi ona
 - 2026-10-08: Sahne listesi v2 onaylandı. Pilot çekim senaryosu v1 yazıldı. Üretim agent'ına T-001 (görsel geliştirme) ve T-002 (ses araçları) talepleri verildi.
 - 2026-10-08: Üretim yaklaşımı değişti (1. sezon görselleri referans, her şey yapay zekâyla). Üretim agent'ı T-001/T-002 üzerinde çalışırken durduruldu; ara çıktılar `proje/stil/` ve `proje/uretim/` altında. Yarın: agent'ın kaldığı yerden devam, sonucu gözden geçirme.
 - 2026-10-08: Pilotun storyboard'u ve yapay zekâ promptları yazıldı: 19 anahtar kare, her biri görsel + hareket promptu ve referans yuvasıyla (`proje/uretim/promptlar/pilot-storyboard.md`). Stil rehberi ve pipeline referans kararıyla eşitlendi.
+- 2026-10-08: Ana üretim aracı Google Flow + Nano Banana 2.1 seçildi. Flow rehberi ve stil testi için Flow'a hazır promptlar (P01, P07, P12) yazıldı (`proje/uretim/flow-rehberi.md`).
