@@ -39,22 +39,26 @@ Tüm sahne zamana göre deterministiktir: `window.renderAt(t)` her çağrıldı�
 ```bash
 cd bursa-tarih
 npm install                       # three, yazı tipleri, playwright
+npx playwright install chromium   # yerel bilgisayarda bir kez
 
-# Önizleme kareleri (ör. 95. ve 190. saniye)
-mkdir -p onizleme && node snap.mjs onizleme 95 190
+# Önizleme: birkaç saniyeden kare + tek bir kontrol ızgarası (sheet.jpg)
+mkdir -p onizleme && node snap.mjs onizleme 95 190 250 --sheet --gpu
 
-# Tarayıcıda gerçek zamanlı oynatma (kare atlayabilir)
+# Tarayıcıda gerçek zamanlı oynatma
 npx http-server . -p 8080         # sonra: http://localhost:8080/index.html?play=0
 
-# Tam render (30 fps, 3 işçi) + ses + birleştirme
-node render.mjs --out cikti/parcalar --fps 30 --workers 3 --from 0 --to 300
-python3 ses/ses.py cikti/ses.wav
-ffmpeg -f concat -safe 0 -i cikti/parcalar/liste.txt -i cikti/ses.wav \
-  -c:v copy -c:a aac -b:a 192k -shortest cikti/bursa-zaman-haritasi.mp4
+# Tam video: render + ses + 1080p kodlama tek komutta (ara dosya yok)
+node render.mjs --gpu             # → cikti/bursa-zaman-haritasi.mp4
 ```
 
-Yazılımsal GPU'lu (SwiftShader) bir bulut makinede 4 çekirdekle ~1 kare/sn hızında render alınır
-(5 dakika ≈ 2,5 saat). Gerçek GPU'lu bir bilgisayarda çok daha hızlıdır.
+`render.mjs` seçenekleri: `--fps 30`, `--workers auto`, `--from/--to` (saniye), `--crf 22`,
+`--maxrate 3000k` (dosya boyutu tavanı; GitHub'a yüklenecekse `2300k` ≈ 90 MB), `--no-audio`.
+Ses dosyası yoksa `ses/ses.py` otomatik çalışır.
+
+**Hız:** Başlangıçta hangi grafik biriminin kullanıldığı yazılır. "SwiftShader" görürseniz yazılım
+modundasınız (GPU'suz bulutta ~1 kare/sn, 5 dk video ≈ 2 saat). Ekran kartlı bir bilgisayarda `--gpu`
+ile çizim milisaniyeler sürer; darboğaz kare yakalama olur. Başsız modda GPU devreye girmezse
+`RENDER_HEADED=1 node render.mjs --gpu` ile pencereli çalıştırın.
 
 URL parametreleri: `?t=123` (tek kare), `?play=0` (oynat), `?aa=0` (kenar yumuşatma kapalı),
 `?sh=0` (gölgeler kapalı), `?mat=std` (PBR malzeme).
