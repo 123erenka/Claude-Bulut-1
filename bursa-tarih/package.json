@@ -1,0 +1,22 @@
+{
+  "name": "bursa-tarih",
+  "version": "1.0.0",
+  "description": "Bursa zaman haritası animasyonu",
+  "main": "index.js",
+  "scripts": {
+    "onizle": "node snap.mjs",
+    "render": "node render.mjs --out cikti/parcalar"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource/inter": "^5.1.0",
+    "@fontsource/playfair-display": "^5.1.0",
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  },
+  "type": "module"
+}

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Bursa Zaman Haritası</title>
+<style>
+  @font-face { font-family: 'Inter'; font-weight: 400; src: url('node_modules/@fontsource/inter/files/inter-latin-ext-400-normal.woff2') format('woff2'); }
+  @font-face { font-family: 'Inter'; font-weight: 600; src: url('node_modules/@fontsource/inter/files/inter-latin-ext-600-normal.woff2') format('woff2'); }
+  @font-face { font-family: 'Inter'; font-weight: 700; src: url('node_modules/@fontsource/inter/files/inter-latin-ext-700-normal.woff2') format('woff2'); }
+  @font-face { font-family: 'Playfair'; font-weight: 700; src: url('node_modules/@fontsource/playfair-display/files/playfair-display-latin-ext-700-normal.woff2') format('woff2'); }
+  @font-face { font-family: 'Playfair'; font-weight: 900; src: url('node_modules/@fontsource/playfair-display/files/playfair-display-latin-ext-900-normal.woff2') format('woff2'); }
+
+  html, body { margin: 0; padding: 0; overflow: hidden; background: #000; }
+  #stage {
+    position: relative; width: 1920px; height: 1080px; overflow: hidden;
+    background: linear-gradient(to bottom, #6f98c0 0%, #a9c3d8 38%, #dfe6e6 62%, #e7e6dc 100%);
+    font-family: 'Inter', sans-serif; color: #fff;
+  }
+  canvas { position: absolute; inset: 0; }
+  .ov { position: absolute; pointer-events: none; }
+  #tint { inset: 0; mix-blend-mode: multiply; opacity: 0; }
+  #vignette { inset: 0; background: radial-gradient(ellipse at center, rgba(0,0,0,0) 55%, rgba(10,15,25,0.42) 100%); }
+  #labels { inset: 0; }
+  .lbl {
+    position: absolute; transform: translate(-50%, -100%); white-space: nowrap;
+    font-weight: 600; font-size: 22px; letter-spacing: 0.3px;
+    text-shadow: 0 1px 2px rgba(0,0,0,.9), 0 0 10px rgba(0,0,0,.55);
+    display: flex; flex-direction: column; align-items: center;
+  }
+  .lbl::after { content: ''; width: 2px; height: 26px; background: linear-gradient(rgba(255,255,255,.9), rgba(255,255,255,0)); margin-top: 3px; }
+  .lbl.minor { font-size: 18px; font-weight: 400; }
+  .lbl.army::after { display: none; }
+  .lbl.army { color: #ffe0c4; font-size: 20px; }
+  .lbl.area::after { display: none; }
+  .lbl.area { font-size: 26px; font-weight: 400; letter-spacing: 4px; text-transform: uppercase; opacity: .9; }
+
+  #ruler { left: 48px; top: 40px; display: flex; align-items: center; gap: 18px; }
+  #ruler .em { position: relative; width: 96px; height: 64px; }
+  #ruler .em canvas { position: absolute; inset: 0; width: 96px; height: 64px; border-radius: 3px; box-shadow: 0 2px 10px rgba(0,0,0,.45); }
+  #ruler .nm { position: relative; height: 40px; min-width: 700px; }
+  #ruler .nm div { position: absolute; left: 0; top: 0; font-family: 'Playfair'; font-weight: 700; font-size: 34px; text-shadow: 0 2px 8px rgba(0,0,0,.7); white-space: nowrap; }
+  #pop { right: 52px; top: 38px; text-align: right; text-shadow: 0 2px 8px rgba(0,0,0,.7); }
+  #pop .k { font-size: 18px; letter-spacing: 3px; text-transform: uppercase; opacity: .85; }
+  #pop .v { font-family: 'Playfair'; font-weight: 700; font-size: 44px; font-variant-numeric: tabular-nums; }
+  #pop .n { font-size: 15px; opacity: .75; }
+  #year { left: 48px; bottom: 54px; text-shadow: 0 3px 14px rgba(0,0,0,.65); }
+  #year .v { font-family: 'Playfair'; font-weight: 900; font-size: 112px; line-height: 1; font-variant-numeric: tabular-nums; }
+  #year .e { font-size: 22px; letter-spacing: 4px; text-transform: uppercase; opacity: .9; margin-top: 6px; }
+  #bar { left: 48px; right: 48px; bottom: 26px; height: 4px; background: rgba(255,255,255,.25); border-radius: 2px; }
+  #bar i { display: block; height: 100%; width: 0; background: #f2d18b; border-radius: 2px; }
+  #card {
+    right: 52px; bottom: 54px; width: 620px; padding: 22px 26px 24px;
+    background: rgba(18, 24, 32, 0.66); border-left: 4px solid #f2d18b; border-radius: 4px;
+    backdrop-filter: blur(4px); opacity: 0;
+  }
+  #card .t { font-family: 'Playfair'; font-weight: 700; font-size: 31px; margin-bottom: 10px; color: #f6e2b0; }
+  #card .x { font-size: 22px; line-height: 1.42; color: #eef1f3; }
+  #title { inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; opacity: 0; background: radial-gradient(ellipse at center, rgba(10,16,24,.55) 0%, rgba(10,16,24,0) 70%); }
+  #title .a { font-family: 'Playfair'; font-weight: 900; font-size: 190px; letter-spacing: 26px; text-shadow: 0 6px 30px rgba(0,0,0,.6); margin-left: 26px; }
+  #title .b { font-size: 34px; letter-spacing: 6px; margin-top: 6px; text-shadow: 0 2px 10px rgba(0,0,0,.8); }
+  #title .c { font-size: 20px; letter-spacing: 2px; margin-top: 40px; opacity: .8; text-shadow: 0 2px 8px rgba(0,0,0,.8); }
+  #flash { inset: 0; background: #fff; opacity: 0; }
+</style>
+<script type="importmap">{ "imports": { "three": "./node_modules/three/build/three.module.js" } }</script>
+</head>
+<body>
+<div id="stage">
+  <div id="tint" class="ov"></div>
+  <div id="vignette" class="ov"></div>
+  <div id="labels" class="ov"></div>
+  <div id="ruler" class="ov"><div class="em"></div><div class="nm"></div></div>
+  <div id="pop" class="ov"><div class="k">Nüfus</div><div class="v">0</div><div class="n">tahmini</div></div>
+  <div id="year" class="ov"><div class="v"></div><div class="e"></div></div>
+  <div id="bar" class="ov"><i></i></div>
+  <div id="card" class="ov"><div class="t"></div><div class="x"></div></div>
+  <div id="title" class="ov"><div class="a"></div><div class="b"></div><div class="c"></div></div>
+  <div id="flash" class="ov"></div>
+</div>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>
